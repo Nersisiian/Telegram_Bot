@@ -18,28 +18,6 @@
 
 ---
 
-## 📁 Структура проекта
-
-
-top_telegram_bot/
-├─ bot.py
-├─ config.py
-├─ services/
-│ ├─ ai_service.py
-│ └─ task_service.py
-├─ commands/
-├─ utils/
-│ └─ logger.py
-├─ data/
-│ ├─ logs.txt
-│ └─ tasks.json
-├─ requirements.txt
-├─ .gitignore
-└─ README.md
-
-
----
-
 ## ⚡ Запуск бота
 
 1️⃣ **Клонируем репозиторий**  
