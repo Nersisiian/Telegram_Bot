@@ -1,4 +1,4 @@
- 
+   
 ![Bot Banner](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.11-brightgreen?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-orange?style=for-the-badge)
 
 Топовый Telegram-бот с **GPT-чатом, генерацией картинок через DALL·E и менеджером задач**. Полностью асинхронный, чистый и масштабируемый код, готовый к GitHub.
